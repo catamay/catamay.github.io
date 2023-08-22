@@ -66,11 +66,7 @@ author:
   bio: "Second year doctorate student of Mathematical Sciences at CMU. Interested in calculus of variations and interdisciplinary applications."
   location: "Pittsburgh, PA"
 
-links:
-  - label: "avatar credits"
-      icon: "assets/image/pixiv.ico"
-      url: "https://www.pixiv.net/en/users/23800170"
-
+  
   # Site Footer
 footer:
   links:
