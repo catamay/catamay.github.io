@@ -63,6 +63,7 @@ defaults:
 author:
   name: "Aidan (Kirby)"
   avatar: "assets/image/reimu.jpg"
+  pronouns: "(They/Them)"
   bio: "Second year doctorate student of Mathematical Sciences at CMU. Interested in calculus of variations and interdisciplinary applications."
   location: "Pittsburgh, PA"
 

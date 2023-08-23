@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: Hobbies and Other Stuff
-permalink: /hobbies/
+title: Books, Notes, and the Like
+permalink: /resources/
 description: Just a funny website description... TODO lol
 classes: wide
 author_profile: true

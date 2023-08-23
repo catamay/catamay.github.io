@@ -1,12 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: "/"
+    url: "/"  
   - title: "Cool Things"
+    url: /math-posts/
+  - title: "Not Math"
     url: "/hobbies/"
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Resources"
+    url: /resources/
