@@ -5,7 +5,7 @@
 layout: posts
 title: Some stuff in math I like
 permalink: /math-posts/
-description: Just a funny website description... TODO lol
+description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
 ---

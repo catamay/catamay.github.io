@@ -5,7 +5,7 @@
 layout: single
 title: Books, Notes, and the Like
 permalink: /resources/
-description: Just a funny website description... TODO lol
+description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
 ---
