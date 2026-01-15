@@ -9,3 +9,7 @@ description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
 ---
+
+{::nomarkdown}
+{% jupyter_notebook "website.ipynb" %}
+{:/nomarkdown}
