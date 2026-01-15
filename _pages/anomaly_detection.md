@@ -4,7 +4,7 @@
 
 layout: posts
 title: Unsupervised Approaches to Anomaly Detection
-permalink: /projects/sddpg/
+permalink: /projects/anomaly/
 description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
