@@ -3,11 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: posts
-title: Some stuff in math I like
-permalink: /math-posts/
+title: Safe Deep Deterministic Policy Gradient
+permalink: /projects/sddpg
 description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
 ---
 
-C'est la vie.
+{% jupyter_notebook "code demos/safe RL/website.ipynb" %}

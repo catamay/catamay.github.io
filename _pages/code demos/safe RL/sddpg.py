@@ -6,8 +6,6 @@ import torch.nn as nn
 import torch.optim as optim
 import matplotlib.pyplot as plt
 
-import memory
-
 # Alternatively we could pre-concatenate the obs-action pair
 # and make this just a sequential but oh well
 class Critic(nn.Module):

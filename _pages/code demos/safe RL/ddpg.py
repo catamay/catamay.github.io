@@ -13,22 +13,6 @@ import matplotlib.pyplot as plt
 
 from collections import namedtuple, deque
 
-# Memory class
-# Used to create batches on which to train the agent
-class ReplayMemory:
-    def __init__(self, capacity):
-        self.memory = deque([], maxlen=capacity)
-
-    def push(self, *args):
-        self.memory.append(Transition(*args))
-
-    def sample(self, batch_size):
-        return random.sample(self.memory, batch_size)
-
-    def __len__(self):
-        return len(self.memory)
-
-Transition = namedtuple('Transition', ('state', 'action', 'next_state', 'reward'))
 
 # Alternatively we could pre-concatenate the obs-action pair
 # and make this just a sequential but oh well
@@ -99,7 +83,7 @@ class DDPG:
             return 0 # no loss until we can make a batch
 
         transitions = memory.sample(self.batch_size)
-        batch = Transition(*zip(*transitions))
+        batch = memory.Transition(*zip(*transitions))
 
         # Batch a sample of the memory
         state_batch = torch.cat(batch.state)
