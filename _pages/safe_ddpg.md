@@ -10,7 +10,7 @@ classes: wide
 author_profile: true
 ---
 
-{::nomarkdown}
+<!-- {::nomarkdown}
 {% assign jupyter_path = "assets/demos/safe_rl/website.ipynb" | relative_url %}
 {% capture notebook_exists %}{% {{ site.baseurl }}/assets/demos/safe_rl/website.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
@@ -18,4 +18,4 @@ author_profile: true
 {% else %}
     <p>Sorry, the notebook you are looking for does not exist.</p>
 {% endif %}
-{:/nomarkdown}
+{:/nomarkdown} -->
