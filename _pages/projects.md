@@ -10,4 +10,4 @@ classes: wide
 author_profile: true
 ---
 
-[Safe Deep Deterministic Policy Gradient]({{site.baseurl}}{% link _pages/safe_ddpg.md %})
+[Safe Deep Deterministic Policy Gradient]({{site.baseurl}}{% link _pages/safe_ddpg.md %}) - Using simulated physics half-cheetah environment, applies a safe reinforcement learning approach to prevent model from tipping over.

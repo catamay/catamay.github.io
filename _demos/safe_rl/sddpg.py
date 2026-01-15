@@ -186,7 +186,7 @@ class SDDPG:
         critic_loss = criterion_critic(q_values, target_q_values)
         const_critic_loss = criterion_critic(safe_q_values, target_safe_q_values)
 
-        loss = critic_loss
+        loss = const_critic_loss
 
         loss.backward()
 

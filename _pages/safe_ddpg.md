@@ -10,4 +10,4 @@ classes: wide
 author_profile: true
 ---
 
-{% jupyter_notebook "_pages/code demos/safe RL/website.ipynb" %}
+{% jupyter_notebook _demos/safe_rl/website.ipynb %}
