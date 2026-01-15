@@ -11,8 +11,8 @@ author_profile: true
 ---
 
 {::nomarkdown}
-{% assign jupyter_path = "_demos/safe_rl/website.ipynb" | relative_url %}
-{% capture notebook_exists %}{% _demos/safe_rl/website.ipynb %}{% endcapture %}
+{% assign jupyter_path = "assets/demos/safe_rl/website.ipynb" | relative_url %}
+{% capture notebook_exists %}{% assets/demos/safe_rl/website.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
 {% else %}
