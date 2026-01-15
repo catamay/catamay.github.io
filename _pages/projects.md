@@ -10,4 +10,4 @@ classes: wide
 author_profile: true
 ---
 
-C'est la vie.
+[Safe Deep Deterministic Policy Gradient]({{site.baseurl}}{% link safe_ddpg.md %})

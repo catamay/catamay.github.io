@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: "/"  
   - title: "Cool Things"
-    url: /math-posts/
+    url: /projects/
   - title: "Not Math"
     url: "/hobbies/"
   - title: "Resources"
