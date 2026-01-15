@@ -4,10 +4,10 @@
 
 layout: posts
 title: Safe Deep Deterministic Policy Gradient
-permalink: /projects/sddpg
+permalink: /projects/sddpg/
 description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
 ---
 
-{% jupyter_notebook "code demos\safe RL\website.ipynb" %}
+{% jupyter_notebook "_pages/code demos/safe RL/website.ipynb" %}
