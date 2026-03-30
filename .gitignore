@@ -31,3 +31,4 @@ _site
 # VSCode generated files
 .vscode
 __pycache__
+*.ipynb.html

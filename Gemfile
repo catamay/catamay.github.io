@@ -20,7 +20,6 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-seo-tag"
   gem "jekyll-paginate"
-  gem "jekyll-jupyter-notebook"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

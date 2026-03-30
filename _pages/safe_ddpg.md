@@ -10,7 +10,4 @@ classes: wide
 author_profile: true
 ---
 
-{::nomarkdown}
-{% assign jupyter_path = "/assets/demos/safe_rl/website.ipynb" %}
-{% jupyter_notebook jupyter_path %}
-{:/nomarkdown}
+{% include notebook-embed.html src="/assets/demos/safe_rl/website.ipynb.html" title="Safe DDPG notebook" %}

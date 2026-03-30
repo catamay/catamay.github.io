@@ -10,7 +10,4 @@ classes: wide
 author_profile: true
 ---
 
-{::nomarkdown}
-{% assign jupyter_path = "/assets/demos/anomaly/detection.ipynb" %}
-{% jupyter_notebook jupyter_path %}
-{:/nomarkdown}
+The anomaly detection notebook is not published in this repository yet.
