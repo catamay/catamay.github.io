@@ -46,12 +46,12 @@ All results can be reproduced in the provided notebooks.
 
 #### Training Loss Over Time
 
-![Losses over 1000 epochs. The first 100 epochs have a steep decline followed by little visible change for the remaining training. Final training loss was 0.01 (summed against 16 batches).](https://github.com/catamay/Lyapunov-Function-Learning/blob/master/images/Known%20DS%20Loss.png)
+![Losses over 1000 epochs. The first 100 epochs have a steep decline followed by little visible change for the remaining training. Final training loss was 0.01 (summed against 16 batches).]({{ site.baseurl }}/assets/image/Known%20DS%20Loss.png)
 
 #### Trajectory Results
 
 After training, the energy landscape, vector field, and random trajectories are plotted.
-![Left image depicts the Lyapunov energy function landscape with the respective vector field showing 10 computed trajectories plotted against learned trajectories. Right image depicts the learned transformed trajectories from the function y associated with the energy.](https://github.com/catamay/Lyapunov-Function-Learning/blob/master/images/images/known%20DS.png)
+![Left image depicts the Lyapunov energy function landscape with the respective vector field showing 10 computed trajectories plotted against learned trajectories. Right image depicts the learned transformed trajectories from the function y associated with the energy.]({{ site.baseurl }}/assets/image/known%20DS.png)
 
 
 ### LASA Dataset
@@ -64,12 +64,12 @@ After training, the energy landscape, vector field, and random trajectories are 
 
 #### Training Loss Over Time
 
-![Losses over 150 epochs. The first 10 epochs after a significant jump have a steep decline followed by gradual change for the remaining training. Final training loss was 1.1 (summed against 16 batches).](https://github.com/catamay/Lyapunov-Function-Learning/blob/master/images/images/LASA%20Loss.png)
+![Losses over 150 epochs. The first 10 epochs after a significant jump have a steep decline followed by gradual change for the remaining training. Final training loss was 1.1 (summed against 16 batches).]({{ site.baseurl }}/assets/image/LASA%20Loss.png)
 
 #### Trajectory Results
 
 After training, the energy landscape, vector field, and random trajectories are plotted.
-![Left image depicts the Lyapunov energy function landscape with the respective vector field showing 10 computed trajectories plotted against learned trajectories. Right image depicts the learned transformed trajectories from the function y associated with the energy.](https://github.com/catamay/Lyapunov-Function-Learning/blob/master/images/images/LASA%20DS.png)
+![Left image depicts the Lyapunov energy function landscape with the respective vector field showing 10 computed trajectories plotted against learned trajectories. Right image depicts the learned transformed trajectories from the function y associated with the energy.]({{ site.baseurl }}/assets/image/LASA%20DS.png)
 
 
 ## Citation
