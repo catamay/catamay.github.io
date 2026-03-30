@@ -11,11 +11,6 @@ author_profile: true
 ---
 
 {::nomarkdown}
-{% assign jupyter_path = "assets/demos/safe_rl/website.ipynb" | relative_url %}
-{% capture notebook_exists %}{% "assets/demos/safe_rl/website.ipynb" | relative_url %}{% endcapture %}
-{% if notebook_exists == "true" %}
-    {% jupyter_notebook jupyter_path %}
-{% else %}
-    <p>Sorry, the notebook you are looking for does not exist.</p>
-{% endif %}
+{% assign jupyter_path = "/assets/demos/safe_rl/website.ipynb" %}
+{% jupyter_notebook jupyter_path %}
 {:/nomarkdown}
