@@ -4,13 +4,13 @@
 
 layout: posts
 title: Unsupervised Approaches to Anomaly Detection
-permalink: /projects/anomaly-detection/
+permalink: /projects/anomaly/
 description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
 ---
 
 {::nomarkdown}
-{% assign jupyter_path = "/assets/demos/anomaly_detection/detection.ipynb" %}
+{% assign jupyter_path = "/assets/demos/anomaly/detection.ipynb" %}
 {% jupyter_notebook jupyter_path %}
 {:/nomarkdown}
