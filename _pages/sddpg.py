@@ -197,7 +197,7 @@ class SDDPG:
 
         nn.utils.clip_grad_norm_(self.critic_local.parameters(), 1)
 
-        actor_loss = -self.critic_local(state_batch, self.actor_local(state_batch)).mean()
+        actor_loss = -self.const_critic_local(state_batch, self.actor_local(state_batch)).mean()
         actor_loss.backward()
         self.actor_optim.step()
 
