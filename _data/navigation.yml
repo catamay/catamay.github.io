@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: "/"  
-  - title: "Cool Things"
+  - title: "Projects"
     url: /projects/
-  - title: "Not Math"
-    url: "/hobbies/"
-  - title: "Resources"
-    url: /resources/
+  # - title: "Not Math"
+  #   url: "/hobbies/"
+  # - title: "Resources"
+  #   url: /resources/
