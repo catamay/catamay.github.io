@@ -16,3 +16,5 @@ author_profile: true
 [Anomaly Detection with PCA]({{site.baseurl}}{% link _pages/anomaly_detection.md %}) - Detects anomalous behavior of a water treatment facility during cybersecurity incidents
 
 [Lyapunov Trajectory Learning]({{site.baseurl}}{% link _pages/lyapunov_learning.md %}) - Data-driven approach for learning trajectories by learning a functional landscape.
+
+[Differential Drive LQR and Filtering]({{site.baseurl}}{% link _pages/diff_drive.md %}) - LQR control and filtering for a simulated differential drive robot.

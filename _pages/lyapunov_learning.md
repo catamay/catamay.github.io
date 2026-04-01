@@ -33,8 +33,6 @@ Both systems used the following parameters:
 1. Batch size of 64
 2. AdamW Optimizer with learning rate `1e-5` and weight decay `0.99`.
 
-All results can be reproduced in the provided notebooks.
-
 
 ### Known Dynamical System
 
