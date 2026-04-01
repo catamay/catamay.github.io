@@ -9,7 +9,7 @@ description: Le vent se lève! Il faut tenter de vivre
 classes: wide
 author_profile: true
 ---
-<img src="{{ site.baseurl }}/assets/image/known%20DS.png" alt="Learned Trajectories for a Dynamical System" width="420" style="max-width: 100%; height: auto;">
+<img src="{{ site.baseurl }}/assets/image/known%20DS.png" alt="Learned Trajectories for a Dynamical System" width="800" style="max-width: 100%; height: auto;">
 
 [Lyapunov Trajectory Learning]({{site.baseurl}}{% link _pages/lyapunov_learning.md %}) - Data-driven approach for learning trajectories by learning a functional landscape.
 
