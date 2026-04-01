@@ -10,7 +10,9 @@ classes: wide
 author_profile: true
 ---
 
-I'm Aidan, but I tend to go by my middle name, Kirby, online or by friends. I have a Master of Science in Mathematics from Carnegie Mellon University and a Bachelor of Science in Applied Mathematics and Computer Science from the University of Utah. I'm currently a research engineer at Allegheny General Hospital in robotics and orthopaedics. I have a background in applied mathematics and control theory, and I enjoy working on projects that intersect with machine learning, optimization, and robotics. In my free time, I like to play rhythm games, listen to music, and explore new technologies.
+I'm Aidan, but I tend to go by my middle name, Kirby, online or by friends.
+
+I have a background in applied mathematics and control theory, and I enjoy working on projects that intersect with machine learning, optimization, and robotics. In my free time, I like to play rhythm games, listen to music, and explore new technologies.
 
 
 
