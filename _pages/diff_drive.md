@@ -26,5 +26,6 @@ author_profile: true
 
 After a spline trajectory is generated, the simulated robot (in python IR-Sim) was able to follow the trajectory with the LQR controller, demonstrating the effectiveness of the control strategy in maintaining the desired path while accounting for system dynamics and noise.
 ![Spline trajectory over 5 waypoints arriving to the final destination.]({{ site.baseurl }}/assets/image/lqr%20path.png)
+
 Additionally, the following time-series data was collected, showing relative tracking error in conjunction with filtering errors up to one standard deviation.
 ![Time-series data showing relative tracking error and filtering errors.]({{ site.baseurl }}/assets/image/lqr%20result.png)
